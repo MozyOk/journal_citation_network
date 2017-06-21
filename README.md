@@ -6,5 +6,7 @@ WoSのデータを使う
 今のところ データをTethneに食わせてgrapmlを生成している。  
 
 # 使用ライブラリ＆ソフトウェア #  
+Python2系  
 Tethne  
 Cytoscape  
+
